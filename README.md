@@ -40,9 +40,19 @@ Informe de seguridad sobre una vulnerabilidad en el juego "Turbo Delivery".
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamilSec&show_icons=true&theme=dark&locale=es" alt="Estadísticas de GitHub de JamilSec" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JamilSec&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JamilSec&theme=dark" alt="Lenguaje con más commits" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamilSec&layout=compact&&theme=dark" alt="Top Lenguajes" />
+    </td>
+  </tr>
+</table>
 
 ---
 
